@@ -11,9 +11,17 @@
     "node",
     "npm"
   ],
-  "author": "Jose<jsprz0834@gmail.com>",
+  "author": "Jose <jsprz0834@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
-  }
+    "random-msg": "bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinfradev/random-message-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pinfradev/random-message-package/issues"
+  },
+  "homepage": "https://github.com/pinfradev/random-message-package#readme"
 }
